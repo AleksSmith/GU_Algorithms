@@ -1,3 +1,3 @@
 # GU_Algorithms
 Tasks for the course "Algorithms" GeekUniversity
-Lesson_... Урок ...
+Lesson_2 Урок 2. Введение и знакомство
