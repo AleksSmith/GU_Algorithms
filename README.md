@@ -1,3 +1,3 @@
 # GU_Algorithms
 Tasks for the course "Algorithms" GeekUniversity
-Lesson_... Урок ...
+Lesson_6 Урок 6. Массивы
