@@ -1,3 +1,7 @@
 # GU_Algorithms
 Tasks for the course "Algorithms" GeekUniversity
-Урок 16. Введение в криптографию
+
+Lesson_2 Урок 2. Введение и знакомство
+Lesson_12 Урок 12. Деревья
+Lesson_13 Урок 13. Графы
+Lesson_16 Урок 16. Введение в криптографию
